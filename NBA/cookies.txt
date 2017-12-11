@@ -1,8 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-espn.com	TRUE	/	FALSE	1999999999	SWID	C3BB3E18-BAE2-4B95-CB4B-7380F8C7BEBF
-www.espn.com	TRUE	/	FALSE	1999999999	country	in
-www.espn.com	TRUE	/	FALSE	1999999999	connectionspeed	full
-www.espn.com	TRUE	/	FALSE	1999999999	edition-view	espn-en-us
-www.espn.com	TRUE	/	FALSE	1999999999	edition	espn-en-us
-
